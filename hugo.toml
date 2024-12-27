@@ -1,0 +1,5 @@
+baseURL = 'https://isaacbcn.com/'
+languageCode = 'en-us'
+title = 'Hugo web for isaac'
+theme = 'ananke'
+
